@@ -1,4 +1,4 @@
-# PythonTry3-nmupy-
+# PythonTry3-numpy-
 
 My personal effort
 
